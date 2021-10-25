@@ -1,0 +1,92 @@
+20211006	15:44:27	8b8aa393-ada5-4d60-8fd4-df8460ed63af	/	GET
+20211006	15:44:27	59708745-7114-4e10-b19b-c8fa1abcebcd	/css/style.css	GET
+20211007	17:18:52	2d5c2cba-a5df-4e26-b35e-efb48b50d386	/new-page	GET
+20211007	17:18:52	12e71e75-d3a7-4e17-875b-09016f6c9a04	/new-page	GET
+20211007	17:18:52	17427a2a-ffdd-49a5-90c8-d14b424c6622	/css/style.css	GET
+20211007	17:18:52	a5ad5205-6244-4c6e-bb18-20cf5b88aaf7	/css/style.css	GET
+20211007	17:18:52	27348834-df63-416e-8170-2d75e5998b72	/img/img1.jpg	GET
+20211007	17:18:52	43e73e03-d882-481d-92ce-12609a19c458	/img/img1.jpg	GET
+20211007	17:18:52	5052e35e-a0b6-43aa-90b8-5df0c4e7d7fa	/favicon.ico	GET
+20211007	17:18:52	33c35b7d-b0ed-4aae-969b-d58e8cda1775	/favicon.ico	GET
+20211007	17:20:38	f166f640-20d1-4ad6-97ec-a0429f86c11a	/index	GET
+20211007	17:20:38	c44af980-e405-4649-b485-77878d4be526	/index	GET
+20211007	17:20:38	0ea2b9fd-9b5c-42f2-afc4-f1e7e2d46408	/css/style.css	GET
+20211007	17:20:38	47cbb6c9-6428-4505-96f9-c316c18c47fe	/css/style.css	GET
+20211008	14:17:01	31e5f398-eb89-4188-87fa-5b04bcea5f62	GET 	https://www.google.ca 	/
+20211008	14:21:26	8c411b8b-cc9f-47e9-9c63-7eb8f9abb410	GET 	undefined 	/new-page
+20211008	14:21:26	93cd956c-67ae-4227-ba90-feb2223f7c4e	GET 	undefined 	/css/style.css
+20211008	14:21:26	416b09c8-a2b9-4202-9b01-189160c123a2	GET 	undefined 	/img/img1.jpg
+20211008	14:21:30	137191df-8dfc-40c6-bc44-8fc2d57dd343	GET 	https://www.google.ca 	/
+20211008	14:21:35	a067b285-e4c7-4351-a0e2-46b6d694792a	GET 	undefined 	/new-page
+20211008	14:21:35	56c38442-2bb8-44d3-8a51-f7b2b5b36c6d	GET 	undefined 	/css/style.css
+20211008	14:21:35	99c9faf5-81ec-4166-aa44-c6be4dc76e72	GET 	undefined 	/img/img1.jpg
+20211008	14:21:38	02aef4fa-26e1-4f60-b928-6968377c4724	GET 	undefined 	/
+20211008	14:21:38	984db28b-931b-46a6-a78a-2dec8c1098a8	GET 	undefined 	/css/style.css
+20211018	13:55:27	75d2ef62-1a8f-45e4-8089-16da02ecee56	GET 	undefined 	/
+20211018	13:55:27	a7269eb4-d2c5-4273-91d3-7543ca4245aa	GET 	undefined 	/css/style.css
+20211018	13:55:28	d9fecb09-31fc-4074-a315-178c788c408e	GET 	undefined 	/favicon.ico
+20211018	19:19:52	ad7764fb-9e43-43b0-8214-fefae330182d	GET 	undefined 	/
+20211018	19:19:52	5d640a93-0428-4c3f-933b-e227edcbfb3e	GET 	undefined 	/css/style.css
+20211018	19:19:58	7e5191f8-6627-4dd5-8bd1-dd84ec248116	GET 	undefined 	/subdir
+20211018	19:20:21	dc1256b3-bf6a-4ecc-b63f-d89b03dac5e9	GET 	undefined 	/subdir/test
+20211021	13:37:58	7801fa09-1d54-4a6c-a2a4-e6c104d91be1	GET 	undefined 	/
+20211021	13:37:58	2d24821c-2086-4b05-bffa-581352a0cc87	GET 	undefined 	/css/style.css
+20211021	13:37:58	3d7bd09a-162c-48f2-ada3-3122b49c2278	GET 	undefined 	/favicon.ico
+20211021	13:40:59	3572fd4a-7cdc-4b04-a318-0340a8000794	GET 	undefined 	/test
+20211021	13:40:59	f27136eb-1e34-4835-9b51-766b70629fa3	GET 	undefined 	/css/style.css
+20211021	13:41:45	97d2c0b0-1799-4b7b-9adf-e91d6502da43	GET 	undefined 	/test.html
+20211021	13:41:46	51b5e16d-6cb4-4363-b3d4-937486b5f5e6	GET 	undefined 	/css/style.css
+20211021	13:42:39	c26681c8-6b47-4e47-b5b0-e1128aea16a0	GET 	undefined 	/subdir/test
+20211021	13:44:20	aea0dd50-b9fd-45a7-b5ac-d3db549298f8	GET 	undefined 	/subdir/su
+20211021	13:44:20	4e0dafc8-8248-4ed6-bf8f-3e8f49bfb619	GET 	undefined 	/css/style.css
+20211021	19:13:26	8a327eea-61b7-4af0-b1f3-d5bf2d00ece8	GET 	undefined 	/subdir/newpage
+20211021	19:13:26	258337be-4e30-4666-bcab-5a4edd9c6a46	GET 	undefined 	/css/style.css
+20211021	19:13:37	621e21c6-7886-4ef8-9490-bcb0187e8ac8	GET 	undefined 	/new-page
+20211021	19:13:37	e5e0e645-7d65-4b4a-a059-0592e6ada65d	GET 	undefined 	/img/img1.jpg
+20211021	19:13:37	fb097b13-ff98-42ff-9d2b-9bfdd834d0d3	GET 	undefined 	/css/style.css
+20211021	19:56:27	55da882b-f12f-432a-8241-aa35ae9e007a	GET 	undefined 	/employees
+20211021	19:56:33	15bf1a56-fb1f-45a4-863a-2c9a8b5e9bad	GET 	undefined 	/employees
+20211021	19:58:14	07778d45-0776-4f12-964e-ee8bef9da2cc	POST 	undefined 	/employees
+20211021	19:59:16	ff96a035-c738-4383-a22b-830ba43e1ecb	POST 	undefined 	/employees
+20211022	18:02:46	a3cafc45-6e43-4db5-973b-e8cc3fcf871b	GET 	undefined 	/
+20211022	18:02:46	604aa9f6-0c6f-4ba7-8dbb-df6aebeb3581	GET 	undefined 	/css/style.css
+20211022	18:02:47	51158ae7-05ac-4693-9b08-d8842ae20ef1	GET 	undefined 	/favicon.ico
+20211022	18:06:46	156e2777-260a-431d-9136-b0be6b3480f3	GET 	undefined 	/
+20211022	18:06:46	4288684b-e0e8-47ae-a633-2f99327358f3	GET 	undefined 	/css/style.css
+20211022	18:06:50	35d9ca0a-f7e2-4bd9-9abc-2898ccf039c2	GET 	undefined 	/new-page
+20211022	18:06:50	d3850e3f-b080-4680-ab45-5b3813899053	GET 	undefined 	/css/style.css
+20211022	18:37:28	9cb6092d-02e6-4c96-b059-836339ac8852	GET 	undefined 	/employees
+20211022	18:37:37	92e26593-d701-4e44-a4a0-8c706c1394d9	POST 	undefined 	/employees
+20211022	18:38:12	85cc0e7b-cc9e-49ec-ba90-c94ab724721d	POST 	undefined 	/employees
+20211022	18:38:48	60ee6694-a740-4393-bcaf-58bf1a4fc3f9	PUT 	undefined 	/employees
+20211022	18:39:20	f114e1cd-f799-4334-b0aa-d2cb1a751196	PUT 	undefined 	/employees
+20211022	18:39:55	5719db06-60ad-4bd9-9946-36a5708a9916	DELETE 	undefined 	/employees
+20211022	18:40:09	dff727a4-6966-446a-8a7c-8155f39331fc	PUT 	undefined 	/employees
+20211022	18:40:21	bc287162-dc01-462d-9469-449d086f8836	PUT 	undefined 	/employees
+20211023	17:48:18	a8e3c3ba-db5a-45e0-8933-11581c98fe5d	GET 	undefined 	/
+20211023	17:48:18	c53d4810-4de2-409a-b570-1985e2a4dcad	GET 	undefined 	/css/style.css
+20211023	17:49:38	5e3d51e6-36d8-45c7-825d-86e13b0e9a19	GET 	undefined 	/resister
+20211023	17:50:01	33fcbb99-4db8-4f16-8268-15565fa3140a	POST 	undefined 	/resister
+20211023	17:51:06	c5c85e31-bad6-4091-9550-ac991e383a3a	POST 	undefined 	/resister
+20211023	17:52:36	6d57e2a1-3bea-4964-bdfa-213cb120e155	POST 	undefined 	/resister
+20211023	17:53:37	fc0e472f-2175-45a2-bfcd-766efe7eead3	GET 	undefined 	/resister
+20211023	17:53:44	e248226d-c540-4a2f-bfca-e132170803aa	POST 	undefined 	/resister
+20211023	17:55:38	fba3f487-0204-4750-ac16-3aa0724a6465	POST 	undefined 	/resister
+20211023	17:55:47	da5f0a79-a429-4c91-a455-9737b85d1905	GET 	undefined 	/resister
+20211023	17:55:59	aa7b78b9-8949-4f42-a411-3f411cee9323	POST 	undefined 	/resister
+20211023	17:56:24	cedd4b2d-cab9-482b-9384-732a608a0441	POST 	undefined 	/resister
+20211023	17:58:30	2b4f50a7-93ef-49a2-9001-88bbdc43acf7	POST 	undefined 	/resister
+20211023	17:58:54	0c9dbeca-1635-4286-b36d-b9aa7e97dbfb	GET 	undefined 	/resister
+20211023	17:59:04	05725e26-90ab-48b0-9093-d36a6351c05a	GET 	undefined 	/user
+20211023	17:59:06	ce8af2c8-39d9-4d63-8d6b-4f33879db85c	GET 	undefined 	/users
+20211023	17:59:10	146aa0b7-161e-4c61-b212-6c9db04c0365	GET 	undefined 	/user
+20211023	20:16:25	7e43793c-4273-466a-a01f-8dc096f65bfa	POST 	undefined 	/user
+20211023	20:16:35	ffed3688-c9a0-46e4-ab44-10d12465011a	POST 	undefined 	/auth
+20211023	20:18:57	4fc97a8a-491a-40aa-a051-00a5d8c57b25	POST 	undefined 	/resister
+20211023	20:19:04	89c3dc23-a809-4e32-a14d-844bd2c90027	POST 	undefined 	/user
+20211023	20:19:22	46bc8c30-bec3-4c61-abd7-79227d9fbeae	POST 	undefined 	/resister
+20211023	20:19:23	868fa4c7-ea47-4781-a61e-1fd074b258cb	POST 	undefined 	/resister
+20211023	20:19:39	4b44c7ff-4505-42bd-b316-fce6fa0299bd	POST 	undefined 	/resister
+20211023	20:20:09	bb9453e9-7d18-464c-b49b-0942fe0fb9fd	POST 	undefined 	/resister
+20211023	20:20:12	8c85d7d1-7b15-4df7-b38d-4165f0b057b2	POST 	undefined 	/resister
+20211023	20:20:24	600560e6-43ca-4e60-809a-c6ede3c14d0f	POST 	undefined 	/resister
